@@ -1,0 +1,4 @@
+- Hi, I’m @Lickraft316,
+- I’m interested in making practical bits of code to use all the time!
+- I’m currently learning Javascript and Python.
+- Reach me at Capritchett316@gmail.com
